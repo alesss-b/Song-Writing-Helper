@@ -12,8 +12,8 @@ Description:
 
 */
 
-class SongWritingHelper() {
+class SongWritingHelper {
 	public static void main(String args[]) {
-
+		System.out.println("Test");
 	}
 }
